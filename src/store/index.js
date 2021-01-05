@@ -1,9 +1,10 @@
 import { createStore } from "vuex"
-const state = {}
+const state = {
+  cout: 0,
+}
 const getters = {}
 const mutations = {}
 const actions = {}
-const getters = {}
 
 const store = createStore({
   state,
